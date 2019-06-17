@@ -1,2 +1,10 @@
 * magit-study
 ** git操作
+
+#+BEGIN_SRC text
+
+这里是一些说明
+
+#+END_SRC
+
+** TODO magit 如何使用
