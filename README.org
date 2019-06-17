@@ -9,7 +9,23 @@
 
 ** TODO magit 如何使用
 
+* 做什么 emacs lisp
 
-| a |  b |  c |  ee |  fff |
-|---+---+---+---+---|
-|  a |  1 | 3 |  4 | 5 |
+** 做笔记用 org-mode 工具
+- 参考学习
+
+#+BEGIN_SRC text
+
+https://blog.csdn.net/fanfan4569/article/details/79140470
+
+#+END_SRC
+
+** elisp -> lisp
+
+** emacs 长期投入
+
+
+* TODO javascript
+** TODO vue 3.0
+
+** TODO Flutter 与 dart
